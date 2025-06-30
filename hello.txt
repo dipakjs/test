@@ -1,4 +1,4 @@
-askdfaksdfkmas'dfa'sdf;lasdfl;kas;lasdfl
+
 
 echo "# repo1" >> README.md
 git init
